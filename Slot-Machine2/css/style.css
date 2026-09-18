@@ -1,0 +1,58 @@
+body{
+  background-image: url('sonicCas.webp');
+  background-repeat:no-repeat;
+  background-size: cover;
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+  
+}
+h1{
+  font-size:3rem ;
+  margin-left: 45%;
+  margin-top: 19%;
+  color: #00FFFF!important;
+
+}
+.slotMCon{
+  margin-top: 8%;
+  width: 40%;
+  margin-left: 30%;
+
+}
+.slotM{
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  width: 30%;
+  height:12rem;
+  margin-left: 35%;
+  background-image: url(SlotLever.jpg);
+  background-repeat: no-repeat;
+  background-position: center 90%;
+}
+h1{
+  color:white;
+}
+
+#reel1,#reel2,#reel3{
+  margin-top: 23%;
+  padding: 3.5%;
+}
+
+p#message{
+  color:white;
+  margin-left: 45%;
+}
+
+.moveRight{
+  margin-left: 45%;
+}
+
+#money{
+  color:white;
+  margin-left: 45%;
+
+}
